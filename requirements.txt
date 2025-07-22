@@ -1,0 +1,2 @@
+# No additional dependencies required for this simple app
+# Add your Python dependencies here as needed
